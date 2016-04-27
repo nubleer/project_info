@@ -28,7 +28,7 @@ defmodule ProjectInfo.Mixfile do
 
   defp package do
     [# These are the default files included in the package
-     files: ["lib", "config", "mix.exs", "README*","LICENSE*", "license*"],
+     files: ["lib", "config", "mix.exs", "README*"],
      maintainers: ["Erick Camacho"],
      licenses: ["Apache 2.0"],
      links: %{"GitHub" => "https://github.com/nubleer/project_info"}]
