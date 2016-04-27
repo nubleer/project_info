@@ -1,0 +1,2 @@
+defmodule ProjectInfo do
+end
